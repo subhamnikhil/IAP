@@ -1,4 +1,4 @@
-#Copyright by iiit-delhi for project IAP(Institute admission process) , Follows SRP,OCP,LSP principle, Done by subham nikhil and shubham mishra
+#Copyright by iiit-delhi for project IAP(Institute admission process) , Follows SRP,OCP,LSP principle, Done by subham nikhil
 # In this IAP user can have option to select multiple Branch and Course for which they want admission process to run. With integrated Payment mode.
 import uuid
 import datetime
